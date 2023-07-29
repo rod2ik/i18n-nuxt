@@ -1,4 +1,4 @@
-# Nuxt 3 + i18n minimal starter
+# Nuxt 3 + i18n bug for using '@' sign in a locale JSON file
 
 This repo is a playground to solve a bug in the i18n-module for Nuxt 3 the insertion of a '@' symbol in a locale JSON file.
 
