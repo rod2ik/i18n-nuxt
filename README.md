@@ -2,6 +2,8 @@
 
 This repo is a playground to solve a bug in the i18n-module for Nuxt 3 the insertion of a '@' symbol in a locale JSON file.
 
+The issue is opened on this repo : nuxt-modules/i18n#2271
+
 Commands to reproduce the problem:
 
 ``` bash
