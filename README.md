@@ -8,7 +8,7 @@ Commands to reproduce the problem:
 > git clone git@github.com:rod2ik/i18n-nuxt.git
 > cd i18n-nuxt
 > yarn (or npm install)
-> yarn dev
+> yarn dev (or npm run dev)
 ```
 
 Wait a second or so..
